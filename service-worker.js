@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ftwcoin.io/precache-manifest.11dc5b7ab379ce9e1fd21c89cb4491c7.js"
+  "/ftwcoin.io/precache-manifest.bbf554979cb18347ddd315d6ea145b26.js"
 );
 
 self.addEventListener('message', (event) => {
