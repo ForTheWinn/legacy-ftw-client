@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c8b40f5.chunk.css",
-    "main.js": "/static/js/main.e52ff40d.chunk.js",
-    "main.js.map": "/static/js/main.e52ff40d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f6000d1a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f6000d1a.js.map",
-    "static/js/2.1893d405.chunk.js": "/static/js/2.1893d405.chunk.js",
-    "static/js/2.1893d405.chunk.js.map": "/static/js/2.1893d405.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.51302873d5aa9dc051c1cee79a516905.js": "/precache-manifest.51302873d5aa9dc051c1cee79a516905.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0c8b40f5.chunk.css.map": "/static/css/main.0c8b40f5.chunk.css.map",
-    "static/js/2.1893d405.chunk.js.LICENSE.txt": "/static/js/2.1893d405.chunk.js.LICENSE.txt"
+    "main.css": "/ftwcoin.io/static/css/main.0c8b40f5.chunk.css",
+    "main.js": "/ftwcoin.io/static/js/main.b718559f.chunk.js",
+    "main.js.map": "/ftwcoin.io/static/js/main.b718559f.chunk.js.map",
+    "runtime-main.js": "/ftwcoin.io/static/js/runtime-main.851ce38b.js",
+    "runtime-main.js.map": "/ftwcoin.io/static/js/runtime-main.851ce38b.js.map",
+    "static/js/2.1893d405.chunk.js": "/ftwcoin.io/static/js/2.1893d405.chunk.js",
+    "static/js/2.1893d405.chunk.js.map": "/ftwcoin.io/static/js/2.1893d405.chunk.js.map",
+    "index.html": "/ftwcoin.io/index.html",
+    "precache-manifest.11dc5b7ab379ce9e1fd21c89cb4491c7.js": "/ftwcoin.io/precache-manifest.11dc5b7ab379ce9e1fd21c89cb4491c7.js",
+    "service-worker.js": "/ftwcoin.io/service-worker.js",
+    "static/css/main.0c8b40f5.chunk.css.map": "/ftwcoin.io/static/css/main.0c8b40f5.chunk.css.map",
+    "static/js/2.1893d405.chunk.js.LICENSE.txt": "/ftwcoin.io/static/js/2.1893d405.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6000d1a.js",
+    "static/js/runtime-main.851ce38b.js",
     "static/js/2.1893d405.chunk.js",
     "static/css/main.0c8b40f5.chunk.css",
-    "static/js/main.e52ff40d.chunk.js"
+    "static/js/main.b718559f.chunk.js"
   ]
 }
