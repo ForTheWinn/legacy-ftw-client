@@ -1,0 +1,73 @@
+$success: #1d9c00;
+$success-light: #9cd597;
+$success-lighter: #dcf2db;
+$success-lightest: #e7ede6;
+$success-active: #7ccf75;
+@import "node_modules/bulma/bulma.sass";
+
+
+.box{
+  min-height: 300px;
+}
+
+.container.is-small {
+  @include desktop {
+    width: 1024px !important;
+  }
+}
+.container.is-medium {
+  @include desktop {
+    width: 1140px !important;
+  }
+}
+.is-centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subtitle.is-spaced {
+  margin-bottom: 5rem;
+}
+.columns.is-spaced {
+  margin-bottom: 5rem;
+}
+
+.section.is-small {
+  padding: 1.5rem 1.5rem;
+}
+
+.has-border-bottom {
+  border-bottom: 1px solid $light;
+}
+
+.has-7-columns {
+  .column {
+    flex-basis: auto;
+    flex-grow: unset;
+    padding: 5px;
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+  }
+}
+
+.icon.is-xlarge {
+  width: 4rem;
+  height: 4rem;
+}
+
+
+@include desktop {
+  .hero-container.has-overlay-image {
+    background-color: white;
+    padding-bottom: 10rem;
+
+    .hero {
+      .image {
+        position: absolute;
+        width: 500px;
+        margin: 0 auto;
+      }
+    }
+  }
+}
